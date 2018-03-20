@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi how are you?
+=======
+I am fine thank you 
+what are you doing
+>>>>>>> 65786863c02d75adf5847ebac69d2358eeae7d6c
